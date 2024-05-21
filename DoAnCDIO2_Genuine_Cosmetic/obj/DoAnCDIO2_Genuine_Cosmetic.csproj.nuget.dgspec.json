@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
+    "D:\\.NETworkspace\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
+    "D:\\.NETworkspace\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "projectUniqueName": "D:\\.NETworkspace\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
         "projectName": "DoAnCDIO2_Genuine_Cosmetic",
-        "projectPath": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
-        "packagesPath": "C:\\Users\\phamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
+        "projectPath": "D:\\.NETworkspace\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "D:\\.NETworkspace\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\phamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,6 +72,10 @@
               "target": "Package",
               "version": "[9.1.2, )"
             },
+            "X.PagedList.Mvc": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "X.PagedList.Mvc.Core": {
               "target": "Package",
               "version": "[9.1.2, )"
@@ -95,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

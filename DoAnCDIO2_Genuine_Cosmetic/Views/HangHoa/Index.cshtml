@@ -1,5 +1,6 @@
-﻿@model IEnumerable< DoAnCDIO2_Genuine_Cosmetic.ViewModels.HangHoaVM>
-
+﻿@using X.PagedList.Mvc.Core;  // Thêm dòng này
+@using X.PagedList;           // Thêm dòng này
+@model IPagedList<DoAnCDIO2_Genuine_Cosmetic.ViewModels.HangHoaVM>
 
 <!-- Single Page Header start -->
 <div class="container-fluid page-header py-5">
@@ -21,11 +22,7 @@
                 <div class="row g-4">
                     <div class="col-lg-3">
                         <div class="row g-4">
-
-
                             @await Component.InvokeAsync("MenuLoai")
-
-
 
                             <div class="col-lg-12">
                                 <div class="position-relative">
@@ -45,21 +42,13 @@
                     </div>
                     <div class="col-lg-9">
                         <div class="row g-4 justify-content-center">
-                            @await Html.PartialAsync("ProductItem", Model)
-
-                            <div class="col-12">
-                                <div class="pagination d-flex justify-content-center mt-5">
-                                    <a href="#" class="rounded">&laquo;</a>
-                                    <a href="#" class="active rounded">1</a>
-                                    <a href="#" class="rounded">2</a>
-                                    <a href="#" class="rounded">3</a>
-                                    <a href="#" class="rounded">4</a>
-                                    <a href="#" class="rounded">5</a>
-                                    <a href="#" class="rounded">6</a>
-                                    <a href="#" class="rounded">&raquo;</a>
-                                </div>
+                            @foreach (var item in Model)
+                            {
+                                @await Html.PartialAsync("ProductItem", item)
+                            }
+                            <div class="pagination d-flex justify-content-center mt-5">
+                                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -67,4 +56,5 @@
         </div>
     </div>
 </div>
+
 <!-- Fruits Shop End-->
