@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NguyenDung\\Desktop\\CDIO-master\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
+    "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NguyenDung\\Desktop\\CDIO-master\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
+    "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NguyenDung\\Desktop\\CDIO-master\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "projectUniqueName": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
         "projectName": "DoAnCDIO2_Genuine_Cosmetic",
-        "projectPath": "C:\\Users\\NguyenDung\\Desktop\\CDIO-master\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
-        "packagesPath": "C:\\Users\\NguyenDung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NguyenDung\\Desktop\\CDIO-master\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
+        "projectPath": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "packagesPath": "C:\\Users\\phamp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NguyenDung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
