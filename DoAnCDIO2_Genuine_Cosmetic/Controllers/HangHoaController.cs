@@ -17,24 +17,31 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
         }
 
 
-        public IActionResult Index(int? loai)
+        public IActionResult Index(int? loai, int? page)
         {
-            var  HangHoas  = Db.HangHoas.AsQueryable();
+            var hangHoas = Db.HangHoas.AsQueryable();
             if (loai.HasValue)
             {
-                HangHoas = HangHoas.Where(p => p.MaLoai == loai.Value) ;
+                hangHoas = hangHoas.Where(p => p.MaLoai == loai.Value);
             }
-            var result = HangHoas.Select(p => new HangHoaVM
+
+            var result = hangHoas.Select(p => new HangHoaVM
             {
                 MaHh = p.MaHh,
                 TenHh = p.TenHh ?? "",
                 Hinh = p.Hinh ?? "",
                 DonGia = p.DonGia ?? 0,
                 GiamGia = p.GiamGia ?? 0,
-                TenLoai = p.MaLoaiNavigation.TenLoai 
-            }) ;  
-            return View(result);
+                TenLoai = p.MaLoaiNavigation.TenLoai
+            });
+
+            int pageSize = 9;
+            int pageNumber = page ?? 1;
+            var pagedResult = result.ToPagedList(pageNumber, pageSize);
+
+            return View(pagedResult);
         }
+
 
         public IActionResult Detail(int id)
         {

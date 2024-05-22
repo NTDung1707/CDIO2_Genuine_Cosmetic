@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoAnCDIO2_Genuine_Cosmetic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3af04453379ba2b6fb0a2797f76bbb9d2acafdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bfe36b8e521817226e856094f90a6c405412be0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoAnCDIO2_Genuine_Cosmetic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoAnCDIO2_Genuine_Cosmetic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
