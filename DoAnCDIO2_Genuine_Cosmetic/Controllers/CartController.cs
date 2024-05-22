@@ -182,7 +182,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 			if (respone == null || respone.VnPayResponseCode != "00")
 			{
 				TempData["Message"] = "Lỗi Thanh Toán VNPAY ";
-				return RedirectToAction("PaymentFail");
+				return View("PaymentFail");
 			}
 
 			// Lấy mã khách hàng từ thông tin người dùng đăng nhập (nếu có)

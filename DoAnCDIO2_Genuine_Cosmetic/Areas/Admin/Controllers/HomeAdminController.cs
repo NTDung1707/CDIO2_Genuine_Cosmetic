@@ -107,15 +107,13 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Areas.Admin.Controllers
 
         [Route("danhmucsanpham")]
 
-        public IActionResult DanhMucSanPham(int? page)
+        public IActionResult DanhMucSanPham()
         {
             var lstSanPham = Db.HangHoas.ToList();
 
-            int pageSize = 9;
-            int pageNumber = page ?? 1;
-            var pagedResult = lstSanPham.ToPagedList(pageNumber, pageSize);
+          
 
-            return View(pagedResult);
+            return View(lstSanPham);
         }
 
         [Route("ThemSanPhamMoii")]

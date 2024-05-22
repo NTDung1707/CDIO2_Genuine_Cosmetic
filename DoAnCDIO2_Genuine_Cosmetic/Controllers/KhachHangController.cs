@@ -43,7 +43,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 
                     db.Add(khachHang);
                     db.SaveChanges();
-                    return RedirectToAction("Index", "HangHoa");
+                    return RedirectToAction("Index", "HomeController1");
                 }
                 catch (Exception ex)
                 {
@@ -104,7 +104,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
                             if (khachHang.VaiTro == 0)
                             {
                                 TempData["Username"] = khachHang.MaKh;
-                                return RedirectToAction("Profile");
+                                return RedirectToAction("Index", "HomeController1");
                             }
                             else if (khachHang.VaiTro == 1)
                             {
@@ -119,7 +119,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
                                 }
                                 else
                                 {
-                                    return Redirect("/");
+                                    return Redirect("/404");
                                 }
                             }
                         }
@@ -131,7 +131,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
         #endregion
 
         [Authorize]
-        public IActionResult Profile()
+        public IActionResult Index()
         {
             return View();
         }

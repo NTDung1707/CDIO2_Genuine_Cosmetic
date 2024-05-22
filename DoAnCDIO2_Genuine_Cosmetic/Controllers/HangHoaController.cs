@@ -88,6 +88,8 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
             });
             return View(result);
         }
+
+        
         //public IActionResult phantrang(int? page)
         //{
         //    int pageSize = 8;

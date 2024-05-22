@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tGT29iThuudo5Cz/MZK9EwuLIG5f2ApcuF30mSv0icg=",
+  "Hash": "aJyHC9Ai4CR+DnAhdKZRSJkokh0d7/LNn43vVL2Ccd4=",
   "Source": "DoAnCDIO2_Genuine_Cosmetic",
   "BasePath": "_content/DoAnCDIO2_Genuine_Cosmetic",
   "Mode": "Default",
@@ -889,6 +889,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img_logo\\Black and Green Flat Illustrated Organic Cosmetics Logo (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\img_logo\\tichxanh.jpg",
+      "SourceId": "DoAnCDIO2_Genuine_Cosmetic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\",
+      "BasePath": "_content/DoAnCDIO2_Genuine_Cosmetic",
+      "RelativePath": "img_logo/tichxanh.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img_logo\\tichxanh.jpg"
     },
     {
       "Identity": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\img_sp\\1.jpg",

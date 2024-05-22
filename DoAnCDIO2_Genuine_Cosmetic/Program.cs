@@ -2,7 +2,8 @@ using DoAnCDIO2_Genuine_Cosmetic.Data;
 using DoAnCDIO2_Genuine_Cosmetic.Helpers;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
-using DoAnCDIO2_Genuine_Cosmetic.Services; 
+using DoAnCDIO2_Genuine_Cosmetic.Services;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 var builder = WebApplication.CreateBuilder(args);
 
