@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\homecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\homecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\areas\\admin\\views\\homeadmin\\danhmucloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\areas\\admin\\views\\homeadmin\\danhmucloaisanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,30 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|solutionrelative:doancdio2_genuine_cosmetic\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24626F1C-EF1E-4A7D-AD61-9D53C88D98A0}|DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj|c:\\users\\phamp\\desktop\\ffff\\cdio2_genuine_cosmetic\\doancdio2_genuine_cosmetic\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,8 +106,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwHUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:23:17.313Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:24:45.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -82,92 +150,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T08:43:45.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutCustomer.cshtml",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAnwDUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T09:06:26.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Index.cshtml",
               "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Index.cshtml",
               "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T08:51:53.04Z"
+              "WhenOpened": "2024-05-20T08:51:53.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAFkAAABbAAAA",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAAAO8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T05:44:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T08:40:50.134Z"
+              "WhenOpened": "2024-05-22T05:08:25.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:06:09.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Controllers\\HangHoaController.cs",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:01:32.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAywAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:10:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HomeController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HomeController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HomeController1\\Index.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HomeController1\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:08:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Checkout.cshtml",
               "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Checkout.cshtml",
               "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Checkout.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEcAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T08:34:12.082Z"
+              "WhenOpened": "2024-05-20T08:34:12.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACdLQEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T06:03:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMucLoaiSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucLoaiSanPham.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:24:41.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CheckoutVM.cs",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:32:08.293Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T06:07:44.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CartModel.cs",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:31:59.397Z"
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T08:43:45.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:40:50.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Controllers\\CartController.cs",
@@ -179,31 +327,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Detail.cshtml",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Detail.cshtml",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\Detail.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAB8AAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T08:11:21.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ProductItem.cshtml",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\ProductItem.cshtml",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\ProductItem.cshtml",
               "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\ProductItem.cshtml",
               "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\HangHoa\\ProductItem.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T08:20:48.169Z"
+              "WhenOpened": "2024-05-20T08:20:48.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T05:08:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:31:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckoutVM.cs",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CheckoutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:32:08.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAnwDUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:06:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartItem.cs",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\CartItem.cs",
@@ -215,19 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HangHoaVM.cs",
-              "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
-              "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
-              "ToolTip": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
-              "RelativeToolTip": "DoAnCDIO2_Genuine_Cosmetic\\ViewModels\\HangHoaVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:10:05.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "SaleViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\ViewComponents\\SaleViewComponent.cs",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\ViewComponents\\SaleViewComponent.cs",
@@ -239,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\phamp\\Desktop\\ffff\\CDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\Components\\Sale\\Default.cshtml",
               "RelativeDocumentMoniker": "DoAnCDIO2_Genuine_Cosmetic\\Views\\Shared\\Components\\Sale\\Default.cshtml",

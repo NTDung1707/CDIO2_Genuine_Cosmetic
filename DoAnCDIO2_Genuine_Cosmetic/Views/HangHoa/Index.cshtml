@@ -47,7 +47,17 @@
                                 @await Html.PartialAsync("ProductItem", item)
                             }
                             <div class="pagination d-flex justify-content-center mt-5">
-                                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+                                @Html.PagedListPager(
+                                         Model,
+                                         page => Url.Action("Index", new { page }),
+                                         new PagedListRenderOptions
+                                {
+                                    UlElementClasses = new[] { "pagination" },           // Lớp CSS cho thẻ <ul>
+                                    LiElementClasses = new[] { "page-item" },            // Lớp CSS cho thẻ <li>
+                                    PageClasses = new[] { "page-link" },                 // Lớp CSS cho thẻ <a>
+                                    ActiveLiElementClass = "active",// Lớp CSS cho thẻ <li> khi trang hiện tại đang được chọn
+                                } )
+
                             </div>
                         </div>
                     </div>
@@ -56,5 +66,70 @@
         </div>
     </div>
 </div>
+<script>
+    // Đợi cho DOM sẵn sàng
+    document.addEventListener('DOMContentLoaded', (event) => {
+        // Lấy tất cả các thẻ <ul> với class 'pagination'
+        var paginations = document.querySelectorAll('ul.pagination');
+
+        paginations.forEach(pagination => {
+            // Đặt các thuộc tính CSS cho <ul> với class 'pagination'
+            pagination.style.display = 'flex';
+            pagination.style.listStyle = 'none';
+            pagination.style.paddingLeft = '0';
+            pagination.style.margin = '1rem 0';
+            pagination.style.justifyContent = 'center';
+        });
+
+        // Lấy tất cả các thẻ <li> với class 'page-item'
+        var pageItems = document.querySelectorAll('li.page-item');
+
+        pageItems.forEach(item => {
+            // Đặt các thuộc tính CSS cho <li> với class 'page-item'
+            item.style.margin = '0 5px';
+        });
+
+        // Lấy tất cả các thẻ <a> với class 'page-link'
+        var pageLinks = document.querySelectorAll('a.page-link');
+
+        pageLinks.forEach(link => {
+            // Đặt các thuộc tính CSS cho <a> với class 'page-link'
+            link.style.display = 'block';
+            link.style.padding = '0.5rem 0.75rem';
+            link.style.color = '#4CB551 ';
+            link.style.textDecoration = 'none';
+            link.style.backgroundColor = '#fff';
+            link.style.border = '1px solid #dee2e6';
+            link.style.borderRadius = '0.25rem';
+            link.style.transition = 'background-color 0.3s';
+
+            link.addEventListener('mouseover', () => {
+                link.style.backgroundColor = '#f8f9fa';
+            });
+
+            link.addEventListener('mouseout', () => {
+                link.style.backgroundColor = '#fff';
+            });
+        });
+
+        // Đặt các thuộc tính CSS cho các <li> với class 'active'
+        var activeItems = document.querySelectorAll('li.active .page-link');
+        activeItems.forEach(link => {
+            link.style.zIndex = '1';
+            link.style.color = '#fff';
+            link.style.backgroundColor = '#4CB551';
+            link.style.borderColor = '#4CB551';
+        });
+
+        // Đặt các thuộc tính CSS cho các <li> với class 'disabled'
+        var disabledItems = document.querySelectorAll('li.disabled .page-link');
+        disabledItems.forEach(link => {
+            link.style.color = '#6c757d';
+            link.style.pointerEvents = 'none';
+            link.style.backgroundColor = '#fff';
+            link.style.borderColor = '#dee2e6';
+        });
+    });
+</script>
 
 <!-- Fruits Shop End-->

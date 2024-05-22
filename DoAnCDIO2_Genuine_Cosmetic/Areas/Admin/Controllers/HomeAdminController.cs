@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using X.PagedList;
 
 namespace DoAnCDIO2_Genuine_Cosmetic.Areas.Admin.Controllers
 {
@@ -106,10 +107,15 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Areas.Admin.Controllers
 
         [Route("danhmucsanpham")]
 
-        public IActionResult DanhMucSanPham()
+        public IActionResult DanhMucSanPham(int? page)
         {
             var lstSanPham = Db.HangHoas.ToList();
-            return View(lstSanPham);
+
+            int pageSize = 9;
+            int pageNumber = page ?? 1;
+            var pagedResult = lstSanPham.ToPagedList(pageNumber, pageSize);
+
+            return View(pagedResult);
         }
 
         [Route("ThemSanPhamMoii")]
