@@ -43,7 +43,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 
                     db.Add(khachHang);
                     db.SaveChanges();
-                    return RedirectToAction("Index", "HomeController1");
+                    return View("Profile");
                 }
                 catch (Exception ex)
                 {
