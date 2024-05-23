@@ -79,7 +79,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 			if (Cart.Count == 0)
 			{
 
-				return Redirect("/");
+				return RedirectToAction("Index","HangHoa");
 			}
 
 			return View(Cart);
@@ -127,7 +127,7 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 				db.Database.BeginTransaction();
 				try
 				{
-					db.Database.CommitTransaction();
+					
 					db.Add(hoadon);
 					db.SaveChanges();
 
@@ -146,7 +146,9 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Controllers
 					db.AddRange(cthds);
 					db.SaveChanges();
 
-					HttpContext.Session.Set<List<CartItem>>(MySetting.CART_KEY, new List<CartItem>());
+					db.Database.CommitTransaction();
+
+					HttpContext.Session.Set<List<CartItem>>(MySetting.CART_KEY, new List<CartItem>());  //delete
 
 					return View("Success");
 				}
